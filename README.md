@@ -1,8 +1,4 @@
 # Kingfisher — Features
-
-A reference of what the bot actually does today. Pairs with [ROADMAP.md](ROADMAP.md)
-(build phases) and [README.md](README.md) (setup + run).
-
 ---
 
 ## 1. The alert (what you see in Telegram)
